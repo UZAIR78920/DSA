@@ -100,3 +100,37 @@ void search(NODE temp,int key){
         }
     }
 }
+/*
+Enter the number of values: 5
+Enter 5 values: 6 3 8 4 7
+Menu
+1.Create Binary Tree
+2.Traversals
+3.Search
+4.Exit
+Enter your choice: 1
+Tree Constructed Successfully
+Menu
+1.Create Binary Tree
+2.Traversals
+3.Search
+4.Exit
+Enter your choice: 2
+Inorder: 3 4 6 7 8 
+Preorder: 6 3 4 8 7
+Postorder: 4 3 7 8 6
+Menu
+1.Create Binary Tree
+2.Traversals
+3.Search
+4.Exit
+Enter your choice: 3
+Enter the key you want to search in Tree: 7
+Element Found
+Menu
+1.Create Binary Tree
+2.Traversals
+3.Search
+4.Exit
+Enter your choice: 4
+*/
